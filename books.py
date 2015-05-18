@@ -6,7 +6,7 @@ from contextlib import closing
 api_str = 'https://www.googleapis.com/books/v1/volumes?q=isbn:'
 
 DATABASE = 'books.db'
-DEBUG = True
+DEBUG = False
 SECRET_KEY = '7\xb4\xc0\x1f\x97\xbe\xbc\xa3\xe0\xe6'
 USERNAME = 'admin'
 PASSWORD = 'password'
