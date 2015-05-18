@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block body %}
+
+  <form action="{{ url_for('add_book') }}" method=post>
+  ISBN:<br>
+  <input type="text" name="isbn">
+  <br>
+  <input type="submit" value="Add ISBN">
+  </form>
+  
+
+{% endblock %}
