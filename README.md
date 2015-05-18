@@ -9,7 +9,7 @@ Please note, this project requires that the Flask module be installed. More info
 http://flask.pocoo.org/
 
 Alternatively, you can visit the project online at:
-samcd95.pythonanywhere.com.
+http://samcd95.pythonanywhere.com.
 
 You will first want to register, by clicking the "new user" link at the top of the login page. Once registered, you can log in. The dashboard will initially empty, until you click the "Add New Book" link. There, you can enter the book's ISBN and it will automatically be added to your dashboard. If you need to delete a book for any reason, simply click the "Delete" button at that particular entry.
 
