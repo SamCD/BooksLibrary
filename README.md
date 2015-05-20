@@ -8,7 +8,7 @@ The package can be downloaded by cloning the URL.
 Please note, this project requires that the Flask module be installed. More information on Flask can be found here:
 http://flask.pocoo.org/
 
-You can install all required modules for this project by running `pip install requirements.txt`
+You can install all required modules for this project by running `pip install -r requirements.txt`
 
 Alternatively, you can visit the project online at:
 http://samcd95.pythonanywhere.com.
